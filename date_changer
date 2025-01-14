@@ -1,1 +1,2 @@
-
+created_date = (input("Введите дату в формате: dd/mm/yyyy "))
+print (created_date[0:5])
